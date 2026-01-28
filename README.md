@@ -224,8 +224,8 @@ DSA/
 
 ## 📫 Connect
 
-- GitHub: [@yourusername](https://github.com/Rmandal6294)
-- LinkedIn: [Your Name](https://linkedin.com/in/ranit-m-04a73326b)
+- GitHub: [@Rmandal6294](https://github.com/Rmandal6294)
+- LinkedIn: [Ranit Mandal](https://linkedin.com/in/ranit-m-04a73326b)
 - Email: iaminyourway@gmail.com
 
 ## ⭐ Acknowledgments
