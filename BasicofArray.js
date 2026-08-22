@@ -1,36 +1,36 @@
 //! ================= Creating array =================
 let numbers = ["HTML", "CSS", "JS"];
 // Creating and Initializing an array with values
-let a = new Array(10, 20, 30);
+let aii = new Array(10, 20, 30);
 
 // Accessing Array Elements
-console.log(a[0]);
-console.log(a[1]);
+console.log(aii[0]);
+console.log(aii[1]);
 console.log(numbers[1]);
 
 // Add Element to the end of Array
-a.push("Node.js");
+aii.push("Node.js");
 
 // Add Element to the beginning
-a.unshift("Web Development");
+aii.unshift("Web Development");
 
-console.log(a)
+console.log(aii)
 
 // Creating an Array and Initializing with Values
-let a = ["HTML", "CSS", "JS"];
-console.log("Original Array: " + a);
+let ai = ["HTML", "CSS", "JS"];
+console.log("Original Array: " + ai);
 
 // Removes and returns the last element
-let lst = a.pop();
-console.log("After Removing the last: " + a);
+let lst = ai.pop();
+console.log("After Removing the last: " + ai);
 
 // Removes and returns the first element
-let fst = a.shift();
-console.log("After Removing the First: " + a);
+let fst = ai.shift();
+console.log("After Removing the First: " + ai);
 
 // Removes 2 elements starting from index 1
-a.splice(1, 2);
-console.log("After Removing 2 elements starting from index 1: " + a);
+ai.splice(1, 2);
+console.log("After Removing 2 elements starting from index 1: " + ai);
 
 
 // Creating an Array and Initializing with Values
